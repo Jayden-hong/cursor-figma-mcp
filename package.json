@@ -2,7 +2,7 @@
     "name": "cursor-figma-mcp",
     "version": "1.0.0",
     "scripts": {
-        "start": "bun run src/talk_to_figma_mcp/server.ts --server=<你的socket服务域名>"
+        "start": "bun run src/talk_to_figma_mcp/server.ts --server=cursor-figma-socket.zeabur.app"
     },
     "dependencies": {
         "@modelcontextprotocol/sdk": "latest",
